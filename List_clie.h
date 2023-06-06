@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 1997
- * Silicon Graphics Computer Systems, Inc.
+ * Copyright (c) 1997   -zorjen122
+ * Silicon Graphics Computer Systems, Inc. 
  *
  * Permission to use, copy, modify, distribute and sell this software
  * and its documentation for any purpose is hereby granted without fee,
@@ -13,7 +13,7 @@
 
 #include "Commom components.h"
 
-namespace yampl {
+namespace zampl {
     struct iterator_tag {};
 
     template<class _Ty, class _Tn, class _B = void, class _BB = void, class _BBB = void>
@@ -422,4 +422,4 @@ namespace yampl {
     };
 
 
-};      // namespace yampl
+};      // namespace zampl
