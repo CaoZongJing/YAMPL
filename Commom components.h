@@ -86,7 +86,7 @@
   };
 
 
-namespace yampl {
+namespace zampl {
 
   template<class _Ty1, class _Ty2, class _Ty3>
   struct type_convert {};
@@ -242,4 +242,4 @@ namespace yampl {
   };
 
 
-};    // namespace yampl
+};    // namespace zampl
