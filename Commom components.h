@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 1997
+ * Copyright (c) 1997   --zorjen122
  * Silicon Graphics Computer Systems, Inc.
  *
  * Permission to use, copy, modify, distribute and sell this software
