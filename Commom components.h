@@ -13,7 +13,7 @@
 
 #pragma once
 
-#include<bits/stdc++.h>
+#include<algorithm>
 #include<type_traits>
 #include<iterator>
 
