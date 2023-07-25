@@ -1,3 +1,2 @@
 # ZAMPL
-Compile-time Template Container/Compute Library
-Usage: Compiling supports C++11 and higher versions, for example: g++ --std=c++11 ./test.cpp -o t OR include "List_cile.h"
+Mainly focus on simplicity and practice, translate the compile-time code of STL library and related functions of MPL library.
